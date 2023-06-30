@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "The Greatest Showman",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2023-06-21",
+      "description": "A movie about a circus group.",
+      "id": "e56a381a-19a0-4525-8b04-5640d0b86148"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$Y/2uBPpOZv92Nqjq/XA9xeScr/ZNoWbXUZp5PoMQaHYMo3Haaa7Vy",
+      "id": "2391b3b6-6ab7-4a3b-80cf-863489b59886"
+    }
+  ]
+}
